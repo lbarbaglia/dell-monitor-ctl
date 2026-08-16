@@ -1,7 +1,11 @@
 {
   "setups": {
-    "mac":   { "input": "0x19" },
-    "linux": { "input": "0x0f" }
+    "mac": {
+      "input": "0x19"
+    },
+    "linux": {
+      "input": "0x0f"
+    }
   },
   "usb_vcp": "0xE7",
   "ddcutil_args": [],
